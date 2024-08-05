@@ -1,6 +1,7 @@
 ### HelixHarbor User Manual
 
 Welcome to **HelixHarbor**, a tool for analyzing Transmembrane Helices (TMHs) in transmembrane proteins from *Homo sapiens* and *S. cerevisiae*. This manual will guide you through the various functionalities offered by HelixHarbor.
+You can access the tool through: https://service.bioinformatik.uni-saarland.de/HelixHarbor/
 
 ---
 
